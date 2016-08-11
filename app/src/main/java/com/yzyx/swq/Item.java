@@ -9,6 +9,9 @@ public class Item {
     private String pass;
     private boolean gender;
 
+
+
+    
     public Item() {
     }
 
